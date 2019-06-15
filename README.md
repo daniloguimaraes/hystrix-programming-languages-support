@@ -1,6 +1,6 @@
 # Hystrix programming languages support
 
-## List of all known programming languages which support Netflix Hystrix
+List of all known programming languages which support Netflix Hystrix
 
 |Programming Language/Platform|Project name|
 |:-------------:|:-------------:|
